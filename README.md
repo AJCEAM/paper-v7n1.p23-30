@@ -170,7 +170,7 @@ For selected images (`img_comparativo`), the script displays comparisons between
 ### BibTeX
 
 > ```bibtex
-> @article{Krause de Castro_dos Santos_2026,
+> @article{Krause_de_Castro_dos_Santos_2026,
 > title={Exploring the JPEG Algorithm: Impacts of Modifications in the Quantization and Transform Stages},
 > volume={7}, url={https://sistemas.uft.edu.br/periodicos/index.php/AJCEAM/article/view/22466},
 > DOI={10.20873/uft.2675-3588.2026.v7n1.p23-30},
